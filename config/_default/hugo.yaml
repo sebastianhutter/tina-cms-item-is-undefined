@@ -1,0 +1,8 @@
+languageCode: en-gb
+title: Nested Shortcodes
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
